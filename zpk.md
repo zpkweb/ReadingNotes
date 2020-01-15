@@ -1,21 +1,5 @@
 # zpk
 
-  Taro
-
-  =>
-
-  pc
-  h5
-    mobile
-    pad
-  app
-    RN
-    Flutter
-  小程序
-    wx
-  程序
-    electronjs
-
+macbook pro
+  程序坞图标变得特别小，killall Dock
   
-
-        
